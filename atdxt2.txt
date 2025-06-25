@@ -1,2 +1,11 @@
+addind a chnage and pushing again
+
 cloning this repo atdxtpractice2
+<<<<<<< HEAD
 pushing this local repo file to remote repo
+=======
+
+edit done
+
+edit done by hari
+>>>>>>> main
